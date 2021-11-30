@@ -18,7 +18,7 @@ for (let index = 0; index < 20; index++) {
   if (!listaInvitati.includes(ospite)) {
     listaInvitati.push(ospite);
   }
-  // stampo in console la lista degli invitati
 }
+// stampo in console la lista degli invitati
 console.log(listaInvitati);
 
